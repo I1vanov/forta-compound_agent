@@ -20,7 +20,10 @@
   },
   "dependencies": {
     "bignumber.js": "^9.0.1",
-    "forta-agent": "^0.0.34"
+    "forta-agent": "^0.0.34",
+    "uuid": "^3.0.0",
+    "web3": "^1.7.0",
+    "web3-utils": "^1.7.0"
   },
   "devDependencies": {
     "@types/jest": "^27.0.1",
